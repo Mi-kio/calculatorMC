@@ -1,0 +1,38 @@
+button{
+    background-color: #3c4043;
+    height:30px;
+    width:50px;
+    margin:10px;
+    color:white;
+}
+
+#display-div{
+    height:60px;
+    width:280px;
+    background-color: gray;
+    color:black;
+    margin:6px 10px;
+    border-style:solid;
+    border-width: 2px;
+}
+
+
+
+#calc-div{
+    background-color: white;
+    height:330px;
+    width:300px;
+    color:black;
+    border-style:solid;
+    border-width: 5px;
+}
+
+#child-div{
+    width:280px;
+    margin-left: 8px;
+    margin-right: 5px;
+}
+
+
+
+
